@@ -1,0 +1,34 @@
+body{
+    background-image:url("background.jpg");
+    font-family: chewy,cursive;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(3, 226, 255);
+}
+.note{
+    font-size: 15px;
+    color: rgb(255, 0, 128);
+    font-family: pacifico,cursive;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(0, 255, 115);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(204, 16, 119);
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 5px dotted thistle;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
+#username,#go{
+    position: relative;
+    top: 50px;
+    font-family: pacifico,cursive;
+}
